@@ -1,6 +1,6 @@
 # React Context API vs Redux: When and How to Use Each
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68e5cf1bbad4634977a9a177/react-context-api-vs-redux-when-and-how-to-use-each).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
